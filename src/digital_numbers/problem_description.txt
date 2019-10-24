@@ -1,0 +1,8 @@
+For this problem the idea is to build a function that takes an INT 
+number input and prints into the console the digital version of the number.
+
+ex: 123 -> 
+       _  __
+    |  _| __| 
+    | |_  __|
+    
