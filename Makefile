@@ -3,3 +3,6 @@ build:
 
 test: 
 	docker run -it my_python_dojo_image pytest exercices
+
+test_docker:
+	make build && make test
