@@ -6,3 +6,6 @@ test:
 
 test_docker:
 	make build && make test
+
+bomb:
+	git add . && git commit -m "this commit is a bomb!" && git push
